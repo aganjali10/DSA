@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510256050 source:c:\users\anjali\desktop\random3\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<queue>
+

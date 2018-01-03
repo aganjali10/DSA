@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1493560237 source:c:\users\anjali\desktop\28.implementation of binary tree\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
+1493575471 source:c:\users\anjali\desktop\ds\my programs\28.implementation of binary tree\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<math.h>
+

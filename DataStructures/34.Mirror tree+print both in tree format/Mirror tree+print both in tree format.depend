@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493644852 source:c:\users\anjali\desktop\mirror tree+print both in tree format\main.cpp
+	<iostream>
+	<queue>
+	<math.h>
+

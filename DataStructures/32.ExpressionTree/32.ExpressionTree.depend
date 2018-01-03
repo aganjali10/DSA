@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499434699 source:c:\users\anjali\desktop\32.expressiontree\main.cpp
+	<iostream>
+	<stack>
+	<string.h>
+
